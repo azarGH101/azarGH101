@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Azarudeen</h1>
-<h3 align="center">Cyber Security Self Learning Student</h3>
+<h3 align="center">Full Stack Dev with AI Self Learning Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azargh101&label=Profile%20views&color=0e75b6&style=flat" alt="azargh101" /> </p>
 
