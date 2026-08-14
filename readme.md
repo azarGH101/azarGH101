@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **azaarbca@gmail.com**
 
-- ⚡ Fun fact **Get Daily Dev and AI Updates**
+- ⚡ Currently building full-stack MERN applications and exploring AI-assisted development. Open to feedback, collaboration and junior full-stack opportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
