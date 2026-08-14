@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azargh101" alt="azargh101" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 Currently building production-style applications with authentication, RBAC, Redux Toolkit, REST APIs and MongoDB.
 
 - 🤝 I’m looking for help with **FULL STACK DEV WITH AI**
 
