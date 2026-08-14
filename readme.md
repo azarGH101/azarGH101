@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azargh101" alt="azargh101" /></a> </p>
 
-- 🌱 I’m currently learning **Programming & Networking**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 🤝 I’m looking for help with **Learn Networking & Hacking**
+- 🤝 I’m looking for help with **FULL STACK DEV WITH AI**
 
 - 📫 How to reach me **azaarbca@gmail.com**
 
-- ⚡ Fun fact **Get Daily Cyber Security Updates**
+- ⚡ Fun fact **Get Daily Dev and AI Updates**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
