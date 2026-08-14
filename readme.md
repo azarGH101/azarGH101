@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azargh101" alt="azargh101" /></a> </p>
 
-- 🌱 Currently building production-style applications with authentication, RBAC, Redux Toolkit, REST APIs and MongoDB.
+- 🌱 MERN Stack Developer | React | Node.js | Express | MongoDB | Building Full-Stack Applications.
 
-- 🤝 I’m looking for help with **FULL STACK DEV WITH AI**
+- 🤝 Currently building production-style applications with authentication, RBAC, Redux Toolkit, REST APIs and MongoDB
 
 - 📫 How to reach me **azaarbca@gmail.com**
 
